@@ -142,10 +142,10 @@ export default function Portfolio() {
             About
           </h2>
           <p className="text-lg leading-relaxed mb-6">
-            I’m a storyteller at heart. Over the last five years I’ve helped more than a hundred brands articulate their purpose through persuasive, personality‑driven copy.
+            I’m Maisy - a native English content writer and strategist based in Copenhagen. 
           </p>
           <p className="text-lg leading-relaxed">
-            My approach balances strategy and craft – aligning words with measurable goals while never losing the spark that makes audiences care.
+            With 6+ years of experience in pharma and a background working in London across agency, in-house, and UK government roles, I specialise in creating clear, compelling content that resonates - helping clients communicate with impact.
           </p>
         </div>
       </Section>
